@@ -29,15 +29,15 @@ Opcode	Operation	Description
 110	A << 1	Shift left by 1
 111	A >> 1	Shift right by 1
 
-Project Structure
-
+## Project Structure
+```text
 8-bit-verilog-alu/
 ├── src/
 │   └── alu.v
 ├── tb/
 │   └── alu_tb.v
 └── README.md
-
+```
 How to Run
 
 This project can be tested using an online Verilog simulator such as JDoodle.
@@ -59,6 +59,12 @@ Testbench
 
 The testbench applies different values of A, B, and opcode to test all ALU operations.
 
+Course / Lab
+
+This project was completed as part of the Digital Design Lab course.
+
 Author
 
-Created as a digital design project using Verilog HDL.
+Your Name
+
+Computer Engineering Student
