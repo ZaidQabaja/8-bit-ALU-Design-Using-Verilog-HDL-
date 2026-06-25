@@ -51,6 +51,10 @@ Steps:
 5. Click Run.
 6. The simulation output will appear in the output window.
 
+## Simulation Output
+
+![Simulation Output](simulation_output.png)
+
 Testbench
 
 The testbench applies different values of A, B, and opcode to test all ALU operations.
