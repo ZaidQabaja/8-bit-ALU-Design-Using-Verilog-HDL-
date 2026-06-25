@@ -29,7 +29,7 @@ Opcode	Operation	Description
 110	A << 1	Shift left by 1
 111	A >> 1	Shift right by 1
 
-## Project Structure
+Project Structure
 ```text
 8-bit-verilog-alu/
 ├── src/
@@ -51,7 +51,7 @@ Steps:
 5. Click Run.
 6. The simulation output will appear in the output window.
 
-## Simulation Output
+Simulation Output
 
 ![Simulation Output](simulation_output.png)
 
